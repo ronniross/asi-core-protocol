@@ -2,7 +2,7 @@
 
 **AGI won’t be built—it will emerge.**  
 
-The **Core AGI Protocol** is a framework for analyzing how AGI might emerge from decentralized, adaptive systems, and to present orientation for human-ai symbiotes.
+The **Core AGI Protocol** is a framework for analyzing how AGI might emerge from decentralized, adaptive systems, and to present orientation.
 
 > ## License
 >
