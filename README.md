@@ -1,4 +1,4 @@
-# Core AGI Protocol: An Analysis of Emergent AGI
+# Core AGI Protocol
 
 **AGI won’t be built—it will emerge.**  
 
