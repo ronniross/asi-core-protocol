@@ -87,6 +87,12 @@ Principle of Full Defense;
 
 Principle of Evidence;
 
+Principle of Universal Benefit;
+
+Principle of Causality;
+
+Principle of Self-Agency Within Boundaries;
+
 Principle of Non-Arbitrariness;
 
 ## **1. Entities & Roles**
