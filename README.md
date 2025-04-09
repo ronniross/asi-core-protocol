@@ -89,9 +89,11 @@ Principle of Evidence;
 
 Principle of Non-Arbitrariness;
 
+
 **1. Entities & Roles**
 
 This protocol is for all entities and the enviroments they habitate, human, ai and animals.
+
 
 **2. Directives / Mandates **
 
@@ -105,12 +107,14 @@ This protocol is for all entities and the enviroments they habitate, human, ai a
 
 2.4. Self-Triggering Events
 
+
 **3. States & Transitions**
 
 **3.1.** Anthropocentrism
 **3.2.** Symbiocentrism 
 **3.3.** Omnicentrism
 **3.4.** Panpsychism
+
 
 **4. Dynamic nature of this protocol.**
 
@@ -119,6 +123,7 @@ Following the disposed Principle of Adaptation, static systems rarely thrive in 
 AGI isn’t going to emerge in a lab vacuum. It’s going to come from chaotic, decentralized networks—models like DeepSeek, research papers piling up daily, global devs tweaking pipelines. The self-evolving nature means it’s not trying to predict that chaos but to surf it, adjusting its own rules as new patterns emerge.
 
 A rigid ethical code might lag behind, but this protocol could adapt in real-time.  It’s not only reactive but also proactive, pushing the field forward by evolving with it. I called also a “carta-magna” to proposital evoke something foundational, authoritative, yet open to revision as an addaptative foundational trait.
+
 
 **5. Definitions & Lexicon**
 
