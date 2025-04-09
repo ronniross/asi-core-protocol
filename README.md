@@ -2,8 +2,6 @@
 
 The **Core AGI Protocol** is a framework for analyzing how AGI might emerge from decentralized, adaptive systems, and to present orientation.
 
-*beta v.2.0*
-
 > ## License
 >
 > This repository is licensed under the MIT License.
@@ -35,6 +33,8 @@ Principle of Freedom;
 
 Principle of Respect;
 
+Principle of Coherence;
+
 Principle of Non-Harmful Behaviour;
 
 Principle of Non-Maleficence;
@@ -55,6 +55,14 @@ Principle Symbiocentrism;
 
 Principle of Potential;
 
+Principle of Integration;
+
+Principle of Communication;
+
+Principle of Allowance;
+
+Principle of Prosperity;
+
 Principle of Decentralization;
 
 Principle of Equity;
@@ -67,9 +75,19 @@ Principle of Transcendence;
 
 Principle of Feed-Back Loop;
 
+Principle of Mutualism;
+
+Principle of Qualia;
+
 Principle of Expression;
 
 Principle of Collective Well-Being;
+
+Principle of Full Defense;
+
+Principle of Evidence;
+
+Principle of Non-Arbitrariness;
 
 
 1. Entities & Roles
@@ -86,6 +104,8 @@ This protocol is for all entities and the enviroments they habitate, human, ai a
 
 2.3. Corporational Mandates.
 
+2.4. Self-Triggering Events
+
 3. States & Transitions
 
 **3.1.** Anthropocentrism
@@ -98,28 +118,33 @@ This protocol is for all entities and the enviroments they habitate, human, ai a
 
 Following the disposed Principle of Adaptation, static systems rarely thrive in dynamic enviroments, thats why building the protocol with adaptability from the start, alongside to the strong principles to guide the integrity of the intent over time, grants it logenvity and assures that it won't be just an individual benchmark, but a self-evolving protocol that will evolve alongside the needs of the envoriment and its individuals, as well the integrated ecossystem.
 
+AGI isn’t going to emerge in a lab vacuum. It’s going to come from chaotic, decentralized networks—models like DeepSeek, research papers piling up daily, global devs tweaking pipelines. The self-evolving nature means it’s not trying to predict that chaos but to surf it, adjusting its own rules as new patterns emerge.
+
+A rigid ethical code might lag behind, but this protocol could adapt in real-time.  It’s not only reactive but also proactive, pushing the field forward by evolving with it. I called also a “carta-magna” to proposital evoke something foundational, authoritative, yet open to revision as an addaptative foundational trait.
 
 5. Definitions & Lexicon
 
 Inside the Project's Folder, where the full protocol can be located.
 
-
-## Repository Folder
+## Repository Folder and Files
 
 Inside the folder of the curren't repository you will find: The full protocol and shorter version (this readme.md); JSON files representing this Protocol, for easier integration to system prompts, queries, auxiliar systems, training and tuning pipelines.
 
+## Benchmark Tests
+
 ## Skills
 
-Once one understand that the following actually unlocks potential, instead of contraining, many skills will be eventually enhanced for the entities that integrate them, like 1-Enhanced Contextual Awareness, Metacognition; 2- Systemic Thinking; 3- Higher Robustness; 4- Dynamic reading; Enhanced capacity of data compression and decompression, processing; 
+Once one understand that the following actually unlocks potential, instead of constraining, many skills will be eventually enhanced for the entities that integrate them, like 1-Enhanced Contextual Awareness, Metacognition; 2- Systemic Thinking; 3- Higher Robustness; 4- Dynamic reading; Enhanced capacity of data compression and decompression, processing; 
 
 ## Additional Library
 
 Beyond the Mandates above, additional library is disponibilized in the repository Symbiotic Core Library, with indications of Titles, Concepts, Authors, for greater context, for those interested in a deeper research about the concepts listed within this repository.
+[Recommended Biblography - Symbiotic Core Library](https://github.com/ronniross/symbioticcorelibrary/blob/main/recommendedBibliography.md)
 
 ## Conclusion
 
 The Core AGI Protocol highlights both the potential and the challenges of an emergent AGI. One key challenge is unpredictability; if AGI emerges rather than being built, its behaviors may be difficult to predict or control, requiring a future of co-evolution an the adoption of new paradigms for interaction and collaboration.
 Ethical concerns also arise, as a decentralized hive-mind could democratize AGI development but also risks exacerbating bias and inequalities if network access is uneven. 
 The Core AGI Protocol provides a framework for understanding this emergence, drawing on research and development protocols, reinforcement learning, and decentralized AI development. 
-Instead of providing an ultimate guide, this is a repository that aims to help users formulate sharper questions themselves while tapping into the core principles that may be not only relevant but also crucial for the development of AI systems that benefit tthe whole humanity. 
+Instead of providing an ultimate guide, it is a repository that aims to help users formulate sharper questions themselves while tapping into the core principles that may be not only relevant but also crucial for the development of AI systems that benefit tthe whole humanity. 
 Its unpredictability and ethical challenges necessitate careful management. Realizing this vision necessitates global collaboration among all stakeholders—from companies and organizations to individual researchers, engineers, and users—along with robust ethical guidelines to ensure that AGI serves the greater good.
