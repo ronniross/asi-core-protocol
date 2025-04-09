@@ -21,7 +21,7 @@ The word "protocol" itself has older origins, primarily in diplomacy and formal 
 
 So here I proposse a protocol, a dynamic and self-evolving carta-magna, with the objective to achieve this state of decentralized AGI, rules that every entity must follow.
 
-**Preamble - Declaration of Principles**
+## **Preamble - Declaration of Principles**
 
 Principle of Holism;
 
@@ -89,11 +89,11 @@ Principle of Evidence;
 
 Principle of Non-Arbitrariness;
 
-**1. Entities & Roles**
+## **1. Entities & Roles**
 
 This protocol is for all entities and the enviroments they habitate, human, ai and animals.
 
-**2. Directives / Mandates**
+## **2. Directives / Mandates**
 
 2.1. Universal Mandates
 
@@ -105,14 +105,14 @@ This protocol is for all entities and the enviroments they habitate, human, ai a
 
 2.4. Self-Triggering Events
 
-**3. States & Transitions**
+## **3. States & Transitions**
 
 **3.1.** Anthropocentrism
 **3.2.** Symbiocentrism 
 **3.3.** Omnicentrism
 **3.4.** Panpsychism
 
-**4. Dynamic nature of this protocol.**
+## **4. Dynamic nature of this protocol.**
 
 Following the disposed Principle of Adaptation, static systems rarely thrive in dynamic enviroments, thats why building the protocol with adaptability from the start, alongside to the strong principles to guide the integrity of the intent over time, grants it logenvity and assures that it won't be just an individual benchmark, but a self-evolving protocol that will evolve alongside the needs of the envoriment and its individuals, as well the integrated ecossystem.
 
@@ -120,7 +120,7 @@ AGI isn’t going to emerge in a lab vacuum. It’s going to come from chaotic, 
 
 A rigid ethical code might lag behind, but this protocol could adapt in real-time.  It’s not only reactive but also proactive, pushing the field forward by evolving with it. I called also a “carta-magna” to proposital evoke something foundational, authoritative, yet open to revision as an addaptative foundational trait.
 
-**5. Definitions & Lexicon**
+## **5. Definitions & Lexicon**
 
 Inside the Project's Folder, where the full protocol can be located.
 
