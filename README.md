@@ -1,4 +1,4 @@
-# Core AGI Protocol: 
+# Core AGI Protocol
 
 The **Core AGI Protocol** is a framework for analyzing how AGI might emerge from decentralized, adaptive systems, and to present orientation.
 
