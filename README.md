@@ -63,8 +63,6 @@ Principle of Allowance;
 
 Principle of Prosperity;
 
-Principle of Decentralization;
-
 Principle of Equity;
 
 Principle of Adaptation;
