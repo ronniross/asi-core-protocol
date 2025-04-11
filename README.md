@@ -1,6 +1,6 @@
 # Core AGI Protocol
 
-The **Core AGI Protocol** is a framework for analyzing how AGI might emerge from decentralized, adaptive systems, and to present orientation.
+The **Core AGI Protocol** provides a framework to analyze how AGI might emerge from decentralized, adaptive systems, rather than as the fruit of a single model deployment. It also aims to present orientation as a dynamic and self-evolving Magna Carta, helping to guide the emergence of such phenomena.
 
 > ## License
 >
