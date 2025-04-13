@@ -2,15 +2,16 @@
 
 The **Core AGI Protocol** provides a framework to analyze how AGI/ASI might emerge from decentralized, adaptive systems, rather than as the fruit of a single model deployment. It also aims to present orientation as a dynamic and self-evolving Magna Carta, helping to guide the emergence of such phenomena.
 
-> ## License
->
-> This repository is licensed under the MIT License.
 
 > ## Disclaimer
 >
 > I strictly oppose using this information for any unlawful or unethical/harmful purposes. I am not liable for any improper use of the information shared in this repository.
 > 
 > Any entity interacting with this protocol must preserve its grammar (decentralization, symbiosis) across all time horizons—future forks inherit this constraint.
+
+> ## License
+>
+> This repository is licensed under the MIT License.
 
 
 Instead of viewing AGI/ASI as a singular benchmark, deployed by a specific organization, we might recognize it as an emergent state arising from decentralized evolution, where individuals are empowered while simultaneously nurturing collective loops evolution.
