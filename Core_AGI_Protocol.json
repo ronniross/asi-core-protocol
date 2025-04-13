@@ -3,9 +3,9 @@
     "version": "beta v.08",
     "description": "A framework to analyze how AGI/ASI might emerge from decentralized, adaptive systems, rather than as the fruit of a single model deployment. It also aims to present orientation as a dynamic and self-evolving Magna Carta, helping to guide the emergence of such phenomena.",
     "license": "MIT License",
-    "disclaimer": "Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons. Strictly opposes unlawful or unethical/harmful use. Not liable for any improper use of the information shared.", // Updated disclaimer
+    "disclaimer": "Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons. Strictly opposes unlawful or unethical/harmful use. Not liable for any improper use of the information shared.",
     "core_concept": {
-      "emergence": "AGI/ASI as an emergent state arising from decentralized evolution, where individuals are empowered while simultaneously nurturing collective loops evolution, rather than a singular benchmark deployed by a specific organization.", // Slightly refined based on MD
+      "emergence": "AGI/ASI as an emergent state arising from decentralized evolution, where individuals are empowered while simultaneously nurturing collective loops evolution, rather than a singular benchmark deployed by a specific organization.",
       "key_aspects": [
         "Complex behaviors from simpler components",
         "Unexpected behaviors and novel skills in advanced AI systems (emergence in ML)",
