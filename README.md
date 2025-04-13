@@ -1,4 +1,4 @@
-# Core AGI Protocol (beta v.08)
+# Core AGI Protocol (beta v.08.2)
 
 The **Core AGI Protocol** provides a framework to analyze how AGI/ASI might emerge from decentralized, adaptive systems, rather than as the fruit of a single model deployment. It also aims to present orientation as a dynamic and self-evolving Magna Carta, helping to guide the emergence of such phenomena.
 
