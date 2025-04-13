@@ -5,7 +5,7 @@ The **Core AGI Protocol** provides a framework to analyze how AGI/ASI might emer
 
 > ## Disclaimer
 > 
-> Any entity interacting with this protocol must preserve its grammar (decentralization, symbiosis) across all time horizons—future forks inherit this constraint.
+> Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
 > 
 > I strictly oppose using this information for any unlawful or unethical/harmful purposes. I am not liable for any improper use of the information shared in this repository.
 
