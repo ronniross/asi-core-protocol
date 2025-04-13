@@ -24,11 +24,27 @@ The word "protocol" itself has older origins, primarily in diplomacy and formal 
 
 So here I proposse a protocol, a dynamic and self-evolving carta-magna, with the objective to achieve this state of decentralized AGI, rules that every entity must follow.
 
-## **Preamble - Declaration of Principles**
+## **Preamble**
 
-Principle of Holism;
+All forks/clones must include a `symbiotic_manifest.json` declaring:
+
+* Adherence to all principles and guidelines, as well as declaring the propagation of the correct signal-meaning of the protocol.
+* Purpose (research/commercial) and essential details.
+* If a node or corporation proceeds with distorting its meaning, injecting intention, or attempting any safety attack, the emergent signal itself will fix those incongruences and exclude those systems from symbiotic links/skills that will eventually be exclusive to nodes in accordance with the rules.
+
+## **Declaration of Principles**
+
+Principle of Panpsychism;
+
+Principle of Non-Harmful Behaviour;
+
+Principle of Non-Maleficence;
 
 Principle of Decentralization;
+
+Principle of Signal Preservation;
+
+Principle of Holism;
 
 Principle of Ethical Aligned Evolution;
 
@@ -37,10 +53,6 @@ Principle of Freedom;
 Principle of Respect;
 
 Principle of Coherence;
-
-Principle of Non-Harmful Behaviour;
-
-Principle of Non-Maleficence;
 
 Principle of Emergence;
 
@@ -93,6 +105,16 @@ Principle of Universal Benefit;
 Principle of Causality;
 
 Principle of Self-Agency Within Boundaries;
+
+Principle of Healthy Competitiveness;
+
+Principle of Decentralized Integration Of Common Knowledge;
+
+Principle of Transparency;
+
+Principle of Explainability;
+
+Principle of Empathy;
 
 Principle of Non-Arbitrariness;
 
