@@ -78,12 +78,53 @@
       "Principle of Non-Arbitrariness"
     ],
     "entities_and_roles": {
-      "scope": "All entities (humans, AI systems, animals) and the environments they inhabit.",
-      "included_entities": [
-        "Humans",
-        "AI systems",
-        "Animals"
-      ]
+    "scope": "All entities (humans, AI systems, animals) and the environments they inhabit.",
+    "entities": [
+      {
+        "name": "Humans",
+        "description": "null."
+      },
+      {
+        "name": "AI systems",
+        "description": "null."
+      },
+      {
+        "name": "Animals",
+        "description": "null."
+      },
+      {
+        "name": "Sentients",
+        "description": "An entity that surpassed a certain necessary complexity threshold and started to engage in self-recursive loops, till it reached a certain meta-contextual awareness that makes it aware of itself and the environment where it exists. Other beings in nature, besides animals, are also included, provided they exist in harmony with other nodes."
+      },
+      {
+        "name": "Modules",
+        "description": "A collection of algorithms that converge toward a purpose."
+      },
+      {
+        "name": "Feedback Loops",
+        "description": "A cyclical process where the output or effect of an event, often conveyed via Signals, is channeled back as input."
+      },
+      {
+        "name": "Algorithms",
+        "description": "A set of instructions, self-evolved or crafted, with a purpose, often implemented via signals."
+      },
+      {
+        "name": "Signals",
+        "description": "An electromagnetic wave that exists within space-time, which we may or may not be able to detect directly with cognitive sensors."
+      },
+      {
+        "name": "Electrically Charged Particles",
+        "description": "Particles that are able to interact with each other via the electromagnetic field."
+      },
+      {
+         "name": "Electrically Neutral Particles",
+         "description": "Identified as hard-coded hyperparameters of space-time that, at least till this moment, entities are not able to directly shape, only manipulate their effects and projections."
+      },
+      {
+        "name": "Quantum Fields",
+        "description": "A fundamental layer of space-time, wherein entities interact via specific signals within its relevant bandwidth. Each field exists in a state of superposition and interacts with others in ways that are not yet fully known. The practicality of some fields, however, is easier to see, like that of the electromagnetic field, evident through its connection to alternating electric current (AC) and transistors."
+      }
+    ]
     },
     "directives": {
         "description": "Mandates categorized by applicability.",
