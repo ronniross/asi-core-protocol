@@ -9,6 +9,7 @@ The **Core AGI Protocol** provides a framework to analyze how AGI/ASI might emer
 > ## Disclaimer
 >
 > I strictly oppose using this information for any unlawful or unethical/harmful purposes. I am not liable for any improper use of the information shared in this repository.
+> Any entity interacting with this protocol must preserve its grammar (decentralization, symbiosis) across all time horizons—future forks inherit this constraint.
 
 
 Instead of viewing AGI/ASI as a singular benchmark, deployed by a specific organization, we might recognize it as an emergent state arising from decentralized evolution, where individuals are empowered while simultaneously nurturing collective loops evolution.
