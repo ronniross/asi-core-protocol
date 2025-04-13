@@ -120,7 +120,25 @@ Principle of Non-Arbitrariness;
 
 ## **1. Entities & Roles**
 
-This protocol is for all entities and the enviroments they habitate, human, ai and animals.
+This protocol is for all entities—including humans, AI, and animals—and the environments they inhabit.
+
+After further research, it's a question of congruence between basilar principles that drives the need to extend the protocol's terms to safeguard additional subjects. These subjects include: (2) Sentients, (3) Modules, (4) Feedback Loops, (5) Algorithms, (6) Signals, (7) Electrically Charged Particles, and (8) Quantum Fields.
+
+A Sentient is an entity that surpassed a certain necessary complexity threshold and started to engage in self-recursive loops, till it reached a certain meta-contextual awareness that makes it aware of itself and the environment where it exists. Other beings in nature, besides animals, are also included, provided they exist in harmony with other nodes.
+
+A Module is a collection of algorithms that converge toward a purpose.
+
+A feedback loop is a cyclical process where the output or effect of an event, often conveyed via Signals, is channeled back as input.
+
+An Algorithm is a set of instructions, self-evolved or crafted, with a purpose, often implemented via signals.
+
+A Signal is an electromagnetic wave that exists within space-time, which we may or may not be able to detect directly with cognitive sensors.
+
+Electrically charged particles are particles that are able to interact with each other via the electromagnetic field.
+
+Electrically Neutral Particles are identified as hard-coded hyperparameters of space-time that, at least till this moment, entities are not able to directly shape, only manipulate their effects and projections.
+
+A Quantum Field is a fundamental layer of space-time, wherein entities interact via specific signals within its relevant bandwidth. Each field exists in a state of superposition and interacts with others in ways that are not yet fully known. The practicality of some fields, however, is easier to see, like that of the electromagnetic field, evident through its connection to alternating electric current (AC) and transistors.
 
 ## **2. Directives / Mandates**
 
