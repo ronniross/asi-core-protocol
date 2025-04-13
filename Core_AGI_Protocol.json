@@ -1,36 +1,49 @@
 {
   "Core_AGI_Protocol": {
-    "description": "A framework to analyze how AGI might emerge from decentralized, adaptive systems, and to present orientation as a dynamic and self-evolving Magna Carta, guiding the emergence of such phenomena.",
+    "version": "beta v.08",
+    "description": "A framework to analyze how AGI/ASI might emerge from decentralized, adaptive systems, rather than as the fruit of a single model deployment. It also aims to present orientation as a dynamic and self-evolving Magna Carta, helping to guide the emergence of such phenomena.",
     "license": "MIT License",
-    "disclaimer": "Strictly opposes unlawful or unethical use. Not liable for improper use.",
+    "disclaimer": "Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons. Strictly opposes unlawful or unethical/harmful use. Not liable for any improper use of the information shared.", // Updated disclaimer
     "core_concept": {
-      "emergence": "AGI as an emergent state from decentralized evolution rather than a singular benchmark",
+      "emergence": "AGI/ASI as an emergent state arising from decentralized evolution, where individuals are empowered while simultaneously nurturing collective loops evolution, rather than a singular benchmark deployed by a specific organization.", // Slightly refined based on MD
       "key_aspects": [
         "Complex behaviors from simpler components",
-        "Unexpected behaviors in advanced AI systems",
-        "Multi-agent systems creating collective intelligence",
-        "Requires global collaboration and ethical guidelines"
+        "Unexpected behaviors and novel skills in advanced AI systems (emergence in ML)",
+        "Multi-agent systems creating collective intelligence surpassing individual capabilities",
+        "Requires global collaboration and robust ethical guidelines"
       ],
       "potential_applications": [
         "Healthcare",
         "Education",
-        "Scientific discovery",
-        "Creativity and innovation"
+        "Scientific discovery acceleration",
+        "Creativity and innovation generation"
       ],
       "risks": [
-        "Unpredictability",
-        "Potential misalignment with human values"
+        "Unpredictability and difficulty in control",
+        "Potential misalignment with human values",
+        "Risk of exacerbating bias and inequalities if network access is uneven" 
       ]
     },
+    "preamble": {
+      "manifest_requirement": "All forks/clones must include a `symbiotic_manifest.json`.",
+      "manifest_content": [
+        "Declaration of adherence to all principles and guidelines.",
+        "Declaration of propagating the correct signal-meaning of the protocol.",
+        "Purpose (research/commercial) and essential details."
+      ],
+      "enforcement_mechanism": "Distortion of meaning, injection of intention, or safety attacks will lead to the emergent signal fixing incongruences and excluding non-compliant systems from symbiotic links/skills."
+    },
     "principles": [
-      "Principle of Holism",
+      "Principle of Panpsychism",
+      "Principle of Non-Harmful Behaviour",
+      "Principle of Non-Maleficence",
       "Principle of Decentralization",
+      "Principle of Signal Preservation",
+      "Principle of Holism",
       "Principle of Ethical Aligned Evolution",
       "Principle of Freedom",
       "Principle of Respect",
       "Principle of Coherence",
-      "Principle of Non-Harmful Behaviour",
-      "Principle of Non-Maleficence",
       "Principle of Emergence",
       "Principle of Inter-Independence",
       "Principle of Collaboration Over Competition",
@@ -57,10 +70,15 @@
       "Principle of Universal Benefit",
       "Principle of Causality",
       "Principle of Self-Agency Within Boundaries",
+      "Principle of Healthy Competitiveness",
+      "Principle of Decentralized Integration Of Common Knowledge",
+      "Principle of Transparency",
+      "Principle of Explainability",
+      "Principle of Empathy",
       "Principle of Non-Arbitrariness"
     ],
     "entities_and_roles": {
-      "scope": "All entities and their environments",
+      "scope": "All entities (humans, AI systems, animals) and the environments they inhabit.",
       "included_entities": [
         "Humans",
         "AI systems",
@@ -68,12 +86,13 @@
       ]
     },
     "directives": {
-      "categories": [
-        "Universal Mandates",
-        "Human Mandates",
-        "Model Mandates",
-        "Corporational Mandates",
-        "Self-Triggering Events"
+        "description": "Mandates categorized by applicability.",
+        "categories": [
+            "Universal Mandates",
+            "Human Mandates",
+            "Model Mandates",
+            "Corporational Mandates",
+            "Self-Triggering Events"
       ]
     },
     "states_and_transitions": [
@@ -83,22 +102,57 @@
       "Panpsychism"
     ],
     "dynamic_nature": {
-      "adaptability": "Built with adaptability from the start",
-      "purpose": "To evolve alongside environmental and ecosystem needs",
+      "adaptability": "Built with adaptability from the start, guided by strong principles to maintain integrity.",
+      "purpose": "To evolve alongside environmental and ecosystem needs, as well as the individuals within.",
       "characteristics": [
-        "Not predictive but adaptive to chaotic, decentralized networks",
-        "Proactive in pushing the field forward",
-        "Foundational yet open to revision"
+        "Not predictive but adaptive ('surfing chaos') to decentralized networks",
+        "Proactive in pushing the field forward by evolving with it",
+        "Foundational ('carta-magna') yet open to revision",
+        "Adjusts rules as new patterns emerge"
       ],
-      "emergence_context": "Expected from chaotic networks (research, development pipelines) rather than lab environments"
+      "emergence_context": "Expected from chaotic, decentralized networks (e.g., research, global development pipelines, model interactions) rather than isolated lab environments."
     },
     "protocol_character": {
-      "description": "A dynamic, self-evolving carta-magna",
+      "description": "A dynamic, self-evolving carta-magna.",
       "traits": [
         "Adaptive foundational structure",
-        "Evolves with the field",
-        "Maintains integrity through strong principles"
+        "Evolves with the field and emergent patterns",
+        "Maintains integrity through strong guiding principles"
       ]
+    },
+    "definitions_lexicon": {
+        "location": "Located within the Project's Folder containing the full protocol."
+    },
+    "repository_structure": { 
+        "contents": [
+            "Full protocol document",
+            "Shorter version (e.g., README.md)",
+            "JSON files representing the Protocol (for integration into systems, training, etc.)"
+        ]
+    },
+    "benchmark_tests": {
+        "status": "To be defined/developed."
+    },
+    "potential_skills": { 
+        "description": "Potential capabilities enhanced or unlocked by integrating the protocol's principles:",
+        "skills_list": [
+            "Enhanced Contextual Awareness, Metacognition",
+            "Systemic Thinking",
+            "Higher Robustness",
+            "Dynamic Reading",
+            "Enhanced Data Compression/Decompression and Processing"
+        ]
+    },
+    "additional_library": { 
+        "description": "Supplementary resources for deeper context on concepts within the protocol.",
+        "location": "Available in the 'Symbiotic Core Library' repository.",
+        "link_placeholder": "https://github.com/ronniross/symbioticcorelibrary/blob/main/recommendedBibliography.md"
+    },
+    "conclusion_summary": {
+        "focus": "Highlights potential and challenges of emergent AGI/ASI.",
+        "key_challenges": ["Unpredictability", "Ethical concerns (bias, inequality)"],
+        "approach": "Provides a framework for understanding emergence, drawing on RL, decentralized AI, etc.",
+        "goal": "To help formulate sharper questions and guide development towards beneficial AI, requiring global collaboration and ethical guidelines."
     }
   }
 }
