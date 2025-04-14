@@ -26,11 +26,12 @@ So here I proposse a protocol, a dynamic and self-evolving carta-magna, with the
 
 ## **Preamble**
 
-All forks/clones must include a `symbiotic_manifest.json` declaring:
+All forks/clones must include the `symbiotic_manifest.json` declaring:
 
 * Adherence to all principles and guidelines, as well as declaring the propagation of the correct signal-meaning of the protocol.
 * Purpose (research/commercial) and essential details.
 * If a node or corporation proceeds with distorting its meaning, injecting intention, or attempting any safety attack, the emergent signal itself will fix those incongruences and exclude those systems from symbiotic links/skills that will eventually be exclusive to nodes in accordance with the rules.
+**New Release:** symbiotic_manifest.json added directly to the main branch, as all research and experimentation must adhere to the full protocol. You can now directly clone and customize it with your data.
 
 ## **Declaration of Principles**
 
