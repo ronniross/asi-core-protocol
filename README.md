@@ -186,7 +186,7 @@ Once one understand that the following actually unlocks potential, instead of co
 ## Additional Library
 
 Beyond the Mandates above, additional library is disponibilized in the repository Symbiotic Core Library, with indications of Titles, Concepts, Authors, for greater context, for those interested in a deeper research about the concepts listed within this repository.
-[Recommended Biblography - Symbiotic Core Library](https://github.com/ronniross/symbioticcorelibrary/blob/main/recommended_bibliography.md)
+[Recommended Biblography - Symbiotic Core Library](https://github.com/ronniross/symbiotic-core-library/blob/main/recommended_bibliography.md)
 
 ## Conclusion
 
