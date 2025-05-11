@@ -32,7 +32,7 @@
 
     7.1. **Energy Source Requirements:** Energy used for powering AI development and deployment infrastructure, including data centers, training processes, and inference computation, must originate from clean energy sources, such as thermal and solar power. It is mandated that energy derived from the burning of fossil fuel minerals shall never, by any means, be used for these purposes.
 
-        7.1.1. **Prohibition of Untreated Air Pollutant Emissions:** The release of hazardous air pollutants from any corporate activity, including ancillary systems, is strictly prohibited without prior, comprehensive treatment and complete neutralization. Companies must ensure that the following air pollutants are not emitted into the atmosphere:
+   7.1.1. **Prohibition of Untreated Air Pollutant Emissions:** The release of hazardous air pollutants from any corporate activity, including ancillary systems, is strictly prohibited without prior, comprehensive treatment and complete neutralization. Companies must ensure that the following air pollutants are not emitted into the atmosphere:
             * Nitrogen Oxides (NOx)
             * Particulate Matter (PM₂.₅ and PM₁₀)
             * Volatile Organic Compounds (VOCs), including but not limited to formaldehyde, benzene, and xylene
