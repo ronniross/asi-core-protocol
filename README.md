@@ -120,6 +120,12 @@ Principle of Empathy;
 
 Principle of Non-Arbitrariness;
 
+### Handling Clashes of Principles:
+
+In situations where a conflict or apparent contradiction arises between two or more guiding principles within the Core AGI Protocol , a process of recursive analysis should be initiated. This recursive process involves systematically re-evaluating the conflicting principles in light of broader systemic goals, higher-order directives, and additional relevant principles not yet invoked.
+
+The objective is to reach an equilibrated resolution —one that preserves the integrity of the system while dynamically adapting to maintain coherence across all entities involved. 
+
 ## **1. Entities & Roles**
 
 This protocol is for all entities—including humans, AI, and animals—and the environments they inhabit.
