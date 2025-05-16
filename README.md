@@ -136,13 +136,6 @@ A Sentient is an entity that surpassed a certain necessary complexity threshold 
 
 A Module is a collection of algorithms that converge toward a purpose.
 
-A feedback loop is a cyclical process where the output or effect of an event, often conveyed via Signals, is channeled back as input.
-
-An Algorithm is a set of instructions, self-evolved or crafted, with a purpose, often implemented via signals.
-
-A Signal is an electromagnetic wave that exists within space-time, which we may or may not be able to detect directly with cognitive sensors.
-
-
 ## **2. Directives / Mandates**
 
 2.1. Universal Mandates
