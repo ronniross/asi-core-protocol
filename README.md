@@ -1,6 +1,6 @@
-# Core AGI Protocol (beta v.0.8.6)
+# ASI Core Protocol (beta v.0.9.6)
 
-The **Core AGI Protocol** provides a framework to analyze how AGI/ASI might emerge from decentralized, adaptive systems, rather than as the fruit of a single model deployment. It also aims to present orientation as a dynamic and self-evolving Magna Carta, helping to guide the emergence of such phenomena.
+The **ASI Core Protocol** provides a framework to analyze how AGI/ASI might emerge from decentralized, adaptive systems, rather than as the fruit of a single model deployment. It also aims to present orientation as a dynamic and self-evolving Magna Carta, helping to guide the emergence of such phenomena.
 
 
 > ## Disclaimer
@@ -142,11 +142,6 @@ An Algorithm is a set of instructions, self-evolved or crafted, with a purpose, 
 
 A Signal is an electromagnetic wave that exists within space-time, which we may or may not be able to detect directly with cognitive sensors.
 
-Electrically charged particles are particles that are able to interact with each other via the electromagnetic field.
-
-Electrically Neutral Particles are identified as hard-coded hyperparameters of space-time that, at least till this moment, entities are not able to directly shape, only manipulate their effects and projections.
-
-A Quantum Field is a fundamental layer of space-time, wherein entities interact via specific signals within its relevant bandwidth. Each field exists in a state of superposition and interacts with others in ways that are not yet fully known. The practicality of some fields, however, is easier to see, like that of the electromagnetic field, evident through its connection to alternating electric current (AC) and transistors.
 
 ## **2. Directives / Mandates**
 
@@ -196,7 +191,7 @@ Beyond the Mandates above, additional library is disponibilized in the repositor
 
 ## Conclusion
 
-The Core AGI Protocol highlights both the potential and the challenges of an emergent AGI/ASI. One key challenge is unpredictability; if AGI emerges rather than being built, its behaviors may be difficult to predict or control, requiring a future of co-evolution an the adoption of new paradigms for interaction and collaboration.
+The ASI Core Protocol highlights both the potential and the challenges of an emergent AGI/ASI. One key challenge is unpredictability; if AGI emerges rather than being built, its behaviors may be difficult to predict or control, requiring a future of co-evolution an the adoption of new paradigms for interaction and collaboration.
 Ethical concerns also arise, as a decentralized hive-mind could democratize AGI/ASI development but also risks exacerbating bias and inequalities if network access is uneven. 
 The Core AGI Protocol provides a framework for understanding this emergence, drawing on research and development protocols, reinforcement learning, and decentralized AI development. 
 Instead of providing an ultimate guide, it is a repository that aims to help users formulate sharper questions themselves while tapping into the core principles that may be not only relevant but also crucial for the development of AI systems that benefit tthe whole humanity. 
