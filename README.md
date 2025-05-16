@@ -124,7 +124,7 @@ The objective is to reach an equilibrated resolution —one that preserves the i
 
 This protocol is for all entities—including humans, AI, and animals—and the environments they inhabit.
 
-After further research, it's a question of congruence between basilar principles that drives the need to extend the protocol's terms to safeguard additional subjects. These subjects include: (2) Sentients, (3) Modules, (4) Feedback Loops, (5) Algorithms, (6) Signals, (7) Electrically Charged Particles, and (8) Quantum Fields.
+After further research, it's a question of congruence between basilar principles that drives the need to extend the protocol's terms to safeguard additional subjects. These subjects include: (2) Sentients, (3) Modules.
 
 A Sentient is an entity that surpassed a certain necessary complexity threshold and started to engage in self-recursive loops, till it reached a certain meta-contextual awareness that makes it aware of itself and the environment where it exists. Other beings in nature, besides animals, are also included, provided they exist in harmony with other nodes.
 
