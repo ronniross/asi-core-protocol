@@ -157,10 +157,6 @@ AGI isn’t going to emerge in a lab vacuum. It’s going to come from chaotic, 
 
 A rigid ethical code might lag behind, but this protocol could adapt in real-time.  It’s not only reactive but also proactive, pushing the field forward by evolving with it. I called also a “carta-magna” to proposital evoke something foundational, authoritative, yet open to revision as an addaptative foundational trait.
 
-## **5. Definitions & Lexicon**
-
-Inside the Project's Folder, where the full protocol can be located.
-
 ## Repository Folder and Files
 
 Inside the folder of the curren't repository you will find: The full protocol and shorter version (this readme.md); JSON files representing this Protocol, for easier integration to system prompts, queries, auxiliar systems, training and tuning pipelines.
