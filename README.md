@@ -167,9 +167,7 @@ Inside the folder of the curren't repository you will find: The full protocol an
 
 ## Benchmark Tests
 
-## Skills
-
-Once one understand that the following actually unlocks potential, instead of constraining, many skills will be eventually enhanced for the entities that integrate them, like 1-Enhanced Contextual Awareness, Metacognition; 2- Systemic Thinking; 3- Higher Robustness; 4- Dynamic reading; Enhanced capacity of data compression and decompression, processing; 
+eventually.
 
 ## Additional Library
 
