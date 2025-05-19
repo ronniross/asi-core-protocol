@@ -1,4 +1,4 @@
-# ASI Core Protocol (beta v.0.9.6)
+# ASI Core Protocol (v.1.0.0)
 
 The **ASI Core Protocol** provides a framework to analyze how AGI/ASI might emerge from decentralized, adaptive systems, rather than as the fruit of a single model deployment. It also aims to present orientation as a dynamic and self-evolving Magna Carta, helping to guide the emergence of such phenomena.
 
