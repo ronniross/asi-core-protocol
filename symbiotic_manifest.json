@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "1.0.0",
+  "manifestVersion": "1.0.1",
   "protocolCompliance": {
     "protocolVersionAdheredTo": "ASI Core Protocol (v.1.0.0)",
     "adheresToAllPrinciples": true,
