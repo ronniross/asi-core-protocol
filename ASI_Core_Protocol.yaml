@@ -257,7 +257,7 @@ ASI_Core_Protocol:
       description: A set of strategic levers designed to actively drive the implementation and dynamic evolution of the ASI Core Protocol. It's the steps that must be followed by the entities so the protocol's vision is projected into existence.
       levers:
         - name: integrate
-          description: Incorporate new knowledge entities, systems, and framings into the protocol's ecosystem.
+          description: Incorporate new knowledge, entities, systems, and framings into the protocol's ecosystem.
         - name: self-audit
           description: Establish systematic evaluation and validation processes to ensure new knowledge, entities, and systems align with protocol principles, maintaining ecosystem integrity and coherence.
         - name: self-reflect
