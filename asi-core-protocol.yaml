@@ -1,4 +1,4 @@
-ASI_Core_Protocol:
+asi_core_protocol:
   version: v.1.0.1
   description: A protocol, presented as a self-evolving Magna Carta, to ethically guide and catalize ASI development.
   license: MIT License
@@ -274,3 +274,4 @@ ASI_Core_Protocol:
           description: Continuously improve individual behaviour, the protocol and its components.
         - name: catalize
           description: Project the protocol's vision through targeted interventions and synergies, catalizing intent.
+
